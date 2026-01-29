@@ -1,5 +1,15 @@
-# Sales-Dashboard
-## Summary 
+# Sales Analytics
+1. What Is Sales Analytics?
+- Sales analytics is the process of using historical and current sales data to understand sales performance, customer behavior, and revenue trends, and to support business decisions related to growth and efficiency.
+- In practical terms, sales analytics answers questions such as:
+    - How are we performing against our revenue targets?
+    - Which products, regions, or sales reps are driving results?
+    - Where are deals getting stuck or lost?
+    - What can we expect in future revenue?
+- Sales analytics turns raw transactional and CRM data into structured insights that sales leaders, operations teams, and executives rely on to make informed decisions.
+- Why this matters: Without sales analytics, organizations rely on intuition or incomplete views of performance, which can lead to poor forecasting, inefficient sales processes, and missed revenue opportunities.
+
+## Example 1  
 This project analyzes e-commerce sales and profitability across time, region, and product mix. The pipeline is simple: a flat sales dataset → Tableau visuals → executive KPIs. The dashboard answers: How are sales and profit trending, which states and categories drive results, where are losses concentrated, and which products lead revenue.
 
 ## Dataset
